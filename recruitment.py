@@ -28,3 +28,4 @@ for x in myresult:
       plt.xlabel("Date")
       plt.ylabel("CV Count")
 plt.show()
+
